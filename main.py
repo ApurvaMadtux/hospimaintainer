@@ -7,5 +7,6 @@ def main():
 
 #Entery point function for app
 if __name__ == '__main__':
+    print("hello world")
     main()
     
