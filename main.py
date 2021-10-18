@@ -1,9 +1,10 @@
 """[Auth]
 Apurva shikhare
 """
+from maintainer import service
 
 def main():
-    pass
+    service.store_records()
 
 #Entery point function for app
 if __name__ == '__main__':
